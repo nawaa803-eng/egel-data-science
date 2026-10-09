@@ -1,0 +1,897 @@
+berat,diameter,kadar_air,jenis_kentang,metode_panen,kondisi_penyimpanan,ada_tunas,tingkat_kematangan,grade
+204,6.7,73,Russet,Mesin,Gudang,Ya,Sangat Matang,Standard
+166.3,6,76.2,Granola,Mesin,Cold Storage,Tidak,,Standard
+147.8,5.8,78.3,Kentang Merah,Manual,Gudang,Tidak,,
+251.6,8.2,78.5,Russet,Mesin,Cold Storage,Tidak,Belum Matang,
+195,6.1,73.4,Russet,Mesin,Suhu Ruang,Ya,Sangat Matang,
+133.5,5.8,69.2,Granola,Manual,Cold Storage,Tidak,Sangat Matang,
+,6.5,79.8,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+,6.3,76.7,Atlantik,Mesin,Suhu Ruang,Tidak,Matang,Standard
+90.4,5.3,80,Kentang Merah,Mesin,,Ya,Matang,Reject
+245.5,7.7,79.5,Russet,Mesin,,Tidak,Belum Matang,Standard
+156.2,6,,Kentang Merah,Mesin,Gudang,Ya,Matang,Reject
+136.4,5.4,,Atlantik,Manual,Cold Storage,Tidak,Matang,Premium
+178,6.3,79,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+215.7,6.9,74.7,Atlantik,Manual,Gudang,Tidak,Matang,Premium
+183.1,6.1,71.7,Granola,Mesin,Gudang,,Sangat Matang,Premium
+162.1,5.9,77,Kentang Merah,Mesin,Gudang,,Matang,Reject
+180.9,6.4,80.3,Russet,Mesin,Cold Storage,,Belum Matang,Standard
+241.6,7.2,75.6,Russet,Mesin,Cold Storage,,Belum Matang,Premium
+179.4,6.1,79.4,,Mesin,Suhu Ruang,Tidak,Belum Matang,Reject
+123.1,4.9,79.1,,Manual,Cold Storage,Tidak,Matang,Standard
+170.5,6.3,72,,Manual,Gudang,Tidak,Sangat Matang,Premium
+281.8,8.3,72.4,Russet,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+232.8,,77.4,Granola,Mesin,Cold Storage,Tidak,Matang,Premium
+236,,76.7,Atlantik,Manual,Cold Storage,Tidak,Matang,Premium
+166.2,6.1,77.3,Granola,Manual,Suhu Ruang,Ya,Belum Matang,Reject
+182.3,6.5,76.9,Granola,Mesin,Gudang,Ya,Matang,Reject
+256.8,7.8,79.6,Russet,Manual,Suhu Ruang,Tidak,Matang,Standard
+234.2,7.3,70.3,Russet,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+144.6,5.5,76,Kentang Merah,Manual,Suhu Ruang,Tidak,Matang,Standard
+218.8,7.8,73.4,Atlantik,Manual,Cold Storage,Tidak,Matang,Premium
+187.9,6.3,79.4,Atlantik,Mesin,Cold Storage,Tidak,Matang,Standard
+164.5,5.8,79.8,Atlantik,Manual,Suhu Ruang,Tidak,Belum Matang,Standard
+155.5,6.1,70.8,Granola,Manual,Gudang,Tidak,Sangat Matang,Premium
+192.2,6.7,80.2,Granola,Mesin,Gudang,Tidak,Belum Matang,Reject
+190.1,6,76.9,Atlantik,Mesin,Gudang,Tidak,Belum Matang,Standard
+181.9,6.8,77.3,Granola,Mesin,Suhu Ruang,Tidak,Belum Matang,Standard
+253.5,7.6,69.2,Russet,Mesin,Suhu Ruang,Tidak,Sangat Matang,Premium
+176.9,5.9,74.2,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+166.5,6.5,80.5,Kentang Merah,Manual,Gudang,Tidak,Matang,Standard
+243.3,7.7,75.1,Russet,Mesin,Gudang,Ya,Matang,Standard
+126.8,5,81.2,Granola,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+190.5,7.2,70.8,Kentang Merah,Manual,Gudang,Tidak,Sangat Matang,Premium
+212.5,7.1,82,Russet,Manual,Gudang,Ya,Belum Matang,Reject
+132.1,5.5,77.3,Atlantik,Manual,Suhu Ruang,Tidak,Belum Matang,Reject
+133.4,6.1,77.1,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+194.3,6.7,80.1,Russet,Mesin,Gudang,Ya,Belum Matang,Reject
+171.8,6.2,86.1,Granola,Mesin,Gudang,Tidak,Belum Matang,Reject
+160.4,5.8,74.6,Granola,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+158.2,6.2,75.5,Granola,Manual,Gudang,Tidak,Matang,Standard
+251.7,7.8,78.8,Russet,Mesin,Gudang,Tidak,Matang,Standard
+241.9,7.4,82.6,Russet,Mesin,Suhu Ruang,Tidak,Matang,Standard
+241.1,7.1,72.8,Russet,Mesin,Suhu Ruang,Ya,Matang,Standard
+244.3,7.5,77.8,Russet,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+211.6,6.9,79.4,Atlantik,Mesin,Cold Storage,Tidak,Belum Matang,Standard
+116.2,4.8,75.9,Atlantik,Mesin,Cold Storage,Tidak,Matang,Standard
+157.2,5.4,76.1,Granola,Mesin,Suhu Ruang,Ya,Matang,Reject
+93.7,5,69.6,Granola,Mesin,Suhu Ruang,Tidak,Sangat Matang,Premium
+231.3,6.3,80.7,Russet,Manual,Gudang,Tidak,Matang,Standard
+189.8,6.6,76.3,Atlantik,Manual,Gudang,Tidak,Belum Matang,Standard
+226.6,7,76.5,Atlantik,Manual,Gudang,Tidak,Matang,Premium
+271.6,8.4,79.7,Russet,Manual,Cold Storage,Tidak,Matang,Premium
+237.1,7.2,79.9,Russet,Manual,Cold Storage,Tidak,Belum Matang,Standard
+172.5,6.4,74.5,Atlantik,Mesin,Suhu Ruang,Tidak,Matang,Standard
+207,6.7,76.5,Atlantik,Manual,Gudang,Tidak,Belum Matang,Standard
+151.5,5.9,72.4,Granola,Mesin,Gudang,Ya,Sangat Matang,Standard
+170,6.4,71,Granola,Mesin,Gudang,Tidak,Sangat Matang,Premium
+224.5,7,77.5,Atlantik,Mesin,Cold Storage,Tidak,Matang,Premium
+150.5,6.2,69.4,Granola,Mesin,Suhu Ruang,Tidak,Sangat Matang,Premium
+218.2,6.7,75.1,Atlantik,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+163.7,6.2,80.3,Kentang Merah,Mesin,Cold Storage,Tidak,Belum Matang,Standard
+136.6,5.9,77.5,Granola,Manual,Cold Storage,Tidak,Matang,Standard
+204.1,7,80.7,Granola,Mesin,Gudang,Tidak,Matang,Standard
+194.4,7.3,78.9,Granola,Manual,Gudang,Ya,Belum Matang,Reject
+173.6,6,75.1,Granola,Manual,Cold Storage,Tidak,Matang,Premium
+203.3,6.3,75.6,Russet,Mesin,Cold Storage,Tidak,Matang,Premium
+184.4,5.8,81.4,Granola,Manual,Suhu Ruang,Ya,Matang,Reject
+234.1,7.1,81.8,Russet,Mesin,Gudang,Tidak,Matang,Standard
+205.6,6.4,82.5,Atlantik,Manual,Gudang,Ya,Belum Matang,Reject
+184.6,5.9,78.8,Atlantik,Mesin,Cold Storage,Tidak,Matang,Standard
+220.9,7.7,79.5,Granola,Mesin,Cold Storage,Tidak,Belum Matang,Standard
+214,7,76.9,Russet,Manual,Cold Storage,Tidak,Matang,Premium
+229.6,7.4,76.1,Atlantik,Mesin,Gudang,Ya,Matang,Standard
+147.4,5.7,78.6,Granola,Manual,Gudang,Ya,Matang,Reject
+167.9,6.1,75.1,Granola,Manual,Gudang,Tidak,Matang,Premium
+102.5,5.3,76.5,Kentang Merah,Mesin,Gudang,Tidak,Matang,Standard
+155.9,5.9,70.9,Kentang Merah,Mesin,Suhu Ruang,Tidak,Matang,Standard
+280.6,8.3,77.5,Russet,Mesin,Gudang,Ya,Sangat Matang,Standard
+167.3,6.1,79.4,Granola,Manual,Cold Storage,Ya,Belum Matang,Reject
+137.2,5.8,83.8,Atlantik,Manual,Suhu Ruang,Tidak,Matang,Reject
+105.5,5.3,71.5,Kentang Merah,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+139.9,6.1,80.9,Granola,Manual,Cold Storage,Tidak,Matang,Standard
+256,8.7,77.1,Granola,Manual,Suhu Ruang,Tidak,Matang,Premium
+293.1,7.7,82.8,Russet,Manual,Suhu Ruang,Tidak,Belum Matang,Standard
+125.6,5.1,75.2,Kentang Merah,Mesin,Gudang,Ya,Matang,Reject
+177.3,6.1,78.6,Atlantik,Manual,Cold Storage,Tidak,Matang,Premium
+129.8,5.2,72.3,Granola,Manual,Gudang,Tidak,Sangat Matang,Premium
+103.2,4.6,81.1,Granola,Manual,Gudang,Tidak,Matang,Reject
+165.9,6,78.1,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+135.1,5.1,82.4,Granola,Mesin,Cold Storage,Tidak,Belum Matang,Reject
+227,7.3,74.4,Russet,Mesin,Gudang,Tidak,Belum Matang,Standard
+114,5.2,72.8,Granola,Manual,Gudang,Tidak,Sangat Matang,Premium
+163.3,6.2,81.1,Atlantik,Manual,Cold Storage,Tidak,Belum Matang,Standard
+235.2,7.5,80.6,Russet,Mesin,Suhu Ruang,Tidak,Belum Matang,Standard
+202.8,7,75.5,Atlantik,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+184.6,6.3,72,Granola,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+183.8,7.2,77.1,Russet,Mesin,Suhu Ruang,Ya,Matang,Reject
+259.9,7.8,80.1,Russet,Mesin,Cold Storage,Tidak,Matang,Premium
+202,6.1,67.1,Russet,Mesin,Gudang,Tidak,Sangat Matang,Premium
+192.2,6.2,81.5,Granola,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+169.6,5.6,76.1,Granola,Manual,Suhu Ruang,Ya,Matang,Standard
+91.8,4.8,74.6,Kentang Merah,Mesin,Gudang,Tidak,Matang,Standard
+178.9,6.3,73.9,Atlantik,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+182.8,6.2,76.2,Granola,Mesin,Suhu Ruang,Tidak,Sangat Matang,Standard
+211.5,7.6,79.7,Atlantik,Manual,Suhu Ruang,Tidak,Matang,Standard
+225.1,7.3,79.6,Russet,Manual,Gudang,Tidak,Belum Matang,Standard
+193.6,6.8,79.3,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+205.3,6.5,79.3,Granola,Manual,Suhu Ruang,Ya,Matang,Reject
+131,5.1,72.8,Kentang Merah,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+196.3,6.6,78.2,Granola,Mesin,Cold Storage,Tidak,Belum Matang,Standard
+257.7,7.8,78.3,Atlantik,Manual,Suhu Ruang,Ya,Belum Matang,Reject
+298.6,7.8,79.2,Russet,Mesin,Cold Storage,Tidak,Matang,Premium
+127,5.4,76.9,Granola,Manual,Cold Storage,Tidak,Matang,Standard
+137.6,5.6,70.3,Granola,Manual,Gudang,Ya,Sangat Matang,Standard
+242,7.4,75.6,Atlantik,Manual,Gudang,Tidak,Belum Matang,Premium
+103,4.7,75.2,Kentang Merah,Mesin,Cold Storage,Tidak,Sangat Matang,Standard
+143.7,5.5,78.6,Atlantik,Mesin,Cold Storage,Tidak,Belum Matang,Standard
+123,5.3,80.9,Kentang Merah,Manual,Cold Storage,Tidak,Belum Matang,Reject
+244.7,7.5,80.2,Russet,Mesin,Cold Storage,Tidak,Matang,Standard
+186.4,6.7,73.6,Atlantik,Mesin,Gudang,Tidak,Matang,Premium
+207.2,7.2,76.9,Russet,Mesin,Cold Storage,Tidak,Matang,Premium
+146.4,5.7,79.6,Granola,Mesin,Cold Storage,Tidak,Belum Matang,Standard
+145.1,5.6,81,Granola,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+109.2,5.3,80.2,Kentang Merah,Mesin,Suhu Ruang,Tidak,Matang,Reject
+309.9,8.8,76.5,Russet,Mesin,Gudang,Tidak,Belum Matang,Premium
+180.4,6.2,78.5,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+221,7.3,79.7,Atlantik,Manual,Suhu Ruang,Ya,Matang,Standard
+212.9,7.3,79.5,Russet,Manual,Cold Storage,Tidak,Belum Matang,Standard
+133.5,6,76.6,Kentang Merah,Mesin,Suhu Ruang,Tidak,Matang,Reject
+205,7.4,78.1,Russet,Manual,Gudang,Tidak,Matang,Standard
+97.2,4.6,77.9,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+141.8,5.7,81.5,Atlantik,Manual,Suhu Ruang,Ya,Belum Matang,Reject
+126.6,5.4,74.5,Atlantik,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+151.3,5.8,74.4,Russet,Mesin,Suhu Ruang,Ya,Matang,Reject
+98.2,4.7,79.6,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+236.4,6.8,76,Atlantik,Manual,Suhu Ruang,Tidak,Sangat Matang,Premium
+168.4,6.2,77.5,Granola,Manual,Cold Storage,Tidak,Matang,Standard
+215.2,6.7,69.1,Granola,Manual,Gudang,Tidak,Sangat Matang,Premium
+244.4,7.5,76.7,Russet,Manual,Suhu Ruang,Ya,Matang,Standard
+257.4,7.4,73.5,Russet,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+138.5,5.2,70,Granola,Mesin,Suhu Ruang,Tidak,Sangat Matang,Standard
+188.3,6.6,72.1,Granola,Mesin,Gudang,Tidak,Sangat Matang,Premium
+215.5,7,76.3,Atlantik,Mesin,Cold Storage,Tidak,Belum Matang,Premium
+149.8,6,74.6,Granola,Mesin,Gudang,Tidak,Sangat Matang,Standard
+159.6,6.8,73.4,Kentang Merah,Mesin,Gudang,Tidak,Sangat Matang,Premium
+189.8,6.6,72.7,Granola,Mesin,Gudang,Tidak,Matang,Premium
+150.8,6,77.9,Granola,Mesin,Gudang,Tidak,Matang,Standard
+100.7,4.6,72.9,Kentang Merah,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+128.6,5,81.3,Granola,Mesin,Gudang,Tidak,Belum Matang,Reject
+173,6.8,76,Granola,Manual,Cold Storage,Tidak,Matang,Premium
+181.4,6.1,74.9,Granola,Manual,Cold Storage,Tidak,Matang,Premium
+142.3,5.3,78,Granola,Mesin,Gudang,Tidak,Belum Matang,Standard
+170.9,6.2,75.6,Granola,Mesin,Suhu Ruang,Ya,Matang,Reject
+190,6.5,80,Granola,Manual,Suhu Ruang,Tidak,Belum Matang,Reject
+191.6,6.2,77.4,Granola,Manual,Gudang,Tidak,Matang,Standard
+224.3,7,72.5,Granola,Manual,Gudang,Tidak,Sangat Matang,Premium
+234.7,7.7,75.9,Atlantik,Mesin,Cold Storage,Tidak,Matang,Premium
+195,6.3,76.1,Russet,Manual,Gudang,Tidak,Matang,Premium
+248.9,7.1,86.5,Atlantik,Mesin,Gudang,Tidak,Belum Matang,Reject
+151.4,6.2,71,Granola,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+226.6,7.3,71.5,Atlantik,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+142.4,5.5,88,Kentang Merah,Mesin,Cold Storage,Tidak,Belum Matang,Reject
+125.6,4.8,78.1,Kentang Merah,Manual,Suhu Ruang,Ya,Matang,Reject
+106.7,4.8,73.4,Granola,Manual,Gudang,Tidak,Matang,Standard
+164,6.1,79.2,Granola,Mesin,Cold Storage,Ya,Matang,Standard
+115.4,5.6,74.6,Granola,Manual,Cold Storage,Tidak,Matang,Standard
+203.9,6.4,79.4,Granola,Manual,Cold Storage,Tidak,Matang,Premium
+243.1,7.4,76.5,Atlantik,Manual,Gudang,Tidak,Matang,Premium
+162.1,6.3,75.9,Atlantik,Manual,Cold Storage,Tidak,Matang,Premium
+180.6,5.5,81.2,Granola,Manual,Gudang,Tidak,Matang,Standard
+164.6,6.4,74.5,Atlantik,Mesin,Gudang,Tidak,Sangat Matang,Standard
+168,5.7,82.5,Atlantik,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+197.1,6.8,78.1,Granola,Mesin,Suhu Ruang,Ya,Matang,Reject
+138.7,5.7,78.8,Kentang Merah,Mesin,Gudang,Ya,Belum Matang,Reject
+230.9,7.6,74.6,Granola,Manual,Suhu Ruang,Tidak,Sangat Matang,Premium
+123.1,5.5,80.1,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+205,6,77.4,Granola,Mesin,Cold Storage,Tidak,Matang,Premium
+143.4,5.4,81.7,Kentang Merah,Manual,Cold Storage,Tidak,Matang,Standard
+167.9,6.2,79.2,Kentang Merah,Mesin,Suhu Ruang,Tidak,Matang,Reject
+124.3,5.3,73.6,Kentang Merah,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+228.3,7.4,77.7,Russet,Manual,Suhu Ruang,Ya,Matang,Reject
+226,7.4,77.4,Russet,Manual,Gudang,Ya,Matang,Standard
+200.7,6.9,73.7,Russet,Manual,Cold Storage,Tidak,Matang,Premium
+253.2,7.6,76.8,Russet,Manual,Suhu Ruang,Tidak,Matang,Premium
+192.8,5.9,77.6,Granola,Mesin,Suhu Ruang,Tidak,Matang,Standard
+210.8,6.7,75.9,Atlantik,Mesin,Suhu Ruang,Tidak,Matang,Standard
+243.8,7.6,80.9,Atlantik,Manual,Gudang,Tidak,Belum Matang,Standard
+190.7,6.2,77.1,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Premium
+176.9,6.5,75,Atlantik,Manual,Suhu Ruang,Ya,Sangat Matang,Standard
+203.1,7.1,74.7,Atlantik,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+208.2,6.9,73.4,Russet,Manual,Gudang,Tidak,Sangat Matang,Premium
+170.8,5.1,73.4,Granola,Manual,Suhu Ruang,Tidak,Matang,Standard
+149,5.4,81.7,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+246.7,8.2,76.6,Atlantik,Mesin,Cold Storage,Tidak,Matang,Premium
+202.7,6.6,72.8,Atlantik,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+162.4,5.3,76.1,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+231.8,7.7,75.7,Atlantik,Mesin,Gudang,Tidak,Matang,Premium
+114,5.2,81,Atlantik,Manual,Cold Storage,Tidak,Matang,Standard
+119.5,5.7,76.6,Atlantik,Manual,Suhu Ruang,Tidak,Sangat Matang,Standard
+217.9,7.1,74.2,Atlantik,Manual,Suhu Ruang,Tidak,Sangat Matang,Premium
+232.1,7.4,76.7,Russet,Manual,Gudang,Tidak,Matang,Premium
+178.8,6.5,78.6,Granola,Manual,Suhu Ruang,Tidak,Matang,Standard
+93.6,5.1,77.2,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+139.2,6.4,76.5,Kentang Merah,Manual,Cold Storage,Tidak,Matang,Standard
+260.1,8.1,77.9,Atlantik,Mesin,Cold Storage,Tidak,Matang,Premium
+218.8,6.5,71.9,Atlantik,Mesin,Gudang,Tidak,Sangat Matang,Premium
+195.9,6.8,77.7,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+124.6,5.8,77.5,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+216.2,7.4,78.6,Russet,Manual,Suhu Ruang,Tidak,Matang,Standard
+155.5,5.8,75.4,Russet,Manual,Gudang,Ya,Matang,Standard
+199,7.1,78.8,Atlantik,Mesin,Gudang,Ya,Matang,Reject
+259.6,8.1,77.6,Russet,Mesin,Cold Storage,Tidak,Belum Matang,Premium
+114.9,6.1,71.5,Granola,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+206.9,6.6,75.6,Russet,Manual,Suhu Ruang,Tidak,Matang,Standard
+129.5,5.3,74.2,Granola,Mesin,Gudang,Tidak,Matang,Standard
+196.2,6.5,82.6,Russet,Mesin,Gudang,Tidak,Belum Matang,Reject
+141.9,5.5,74.5,Kentang Merah,Manual,Suhu Ruang,Tidak,Matang,Standard
+97,4.6,75.2,Granola,Manual,Gudang,Tidak,Matang,Standard
+251.5,6.6,76.3,Russet,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+196.4,6.5,78.5,Granola,Manual,Suhu Ruang,Tidak,Belum Matang,Standard
+221.2,7.2,72.5,Russet,Mesin,Gudang,Ya,Sangat Matang,Standard
+83.2,4.5,74.4,Granola,Manual,Suhu Ruang,Tidak,Matang,Standard
+105.1,5.7,79.2,Kentang Merah,Mesin,Gudang,Tidak,Matang,Reject
+213.2,6.9,82.2,Granola,Manual,Suhu Ruang,Tidak,Belum Matang,Reject
+60,4.7,78.9,Kentang Merah,Manual,Cold Storage,Tidak,Matang,Reject
+217.8,7.1,74.4,Russet,Mesin,Suhu Ruang,Tidak,Sangat Matang,Premium
+148.7,6.1,77.2,Atlantik,Mesin,Cold Storage,Tidak,Matang,Standard
+258.2,7.8,75.6,Russet,Mesin,Suhu Ruang,Tidak,Matang,Premium
+206.4,7.3,74.9,Russet,Manual,Gudang,Ya,Matang,Standard
+154.1,5.9,76.4,Kentang Merah,Mesin,Gudang,Tidak,Sangat Matang,Standard
+189.8,6.7,79,Granola,Mesin,Suhu Ruang,Tidak,Matang,Standard
+254.3,7.8,75.2,Atlantik,Mesin,Gudang,Ya,Matang,Standard
+162.9,5.9,80.1,Granola,Manual,Cold Storage,Tidak,Belum Matang,Standard
+243.2,7.6,72.2,Russet,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+118,6,74.1,Granola,Mesin,Gudang,Ya,Matang,Reject
+231.7,7.2,80.5,Atlantik,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+163.4,6.2,71.9,Atlantik,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+170.4,6.6,77.5,Atlantik,Manual,Gudang,Tidak,Belum Matang,Standard
+189.2,6.9,76.2,Atlantik,Manual,Suhu Ruang,Tidak,Belum Matang,Standard
+175.3,6.3,72.9,Russet,Mesin,Cold Storage,Tidak,Matang,Premium
+238,6.5,76,Russet,Mesin,Gudang,Tidak,Matang,Standard
+223.9,7.3,79.8,Atlantik,Manual,Gudang,Tidak,Belum Matang,Standard
+200.3,5.9,74.7,Atlantik,Mesin,Gudang,Tidak,Matang,Premium
+84.4,5.2,78.7,Kentang Merah,Mesin,Gudang,Tidak,Matang,Reject
+165.7,6.2,72.8,Granola,Manual,Suhu Ruang,Ya,Sangat Matang,Standard
+196,7,81.5,Granola,Manual,Cold Storage,Tidak,Belum Matang,Standard
+104.3,4.7,76.5,Granola,Mesin,Suhu Ruang,Tidak,Matang,Standard
+192.4,6,71,Russet,Mesin,Cold Storage,Ya,Sangat Matang,Premium
+220.7,7.2,80.3,Atlantik,Manual,Cold Storage,Tidak,Belum Matang,Standard
+239.5,7.4,76.7,Russet,Mesin,Cold Storage,Tidak,Belum Matang,Premium
+244.4,7.3,81.4,Russet,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+255.1,7.7,74.6,Atlantik,Mesin,Suhu Ruang,Ya,Matang,Standard
+156.4,6.9,82.4,Kentang Merah,Mesin,Gudang,Tidak,Belum Matang,Reject
+253,7.9,76.1,Russet,Mesin,Gudang,Tidak,Matang,Premium
+264.9,8.2,75.8,Granola,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+182.5,6.7,77.1,Atlantik,Manual,Gudang,Ya,Belum Matang,Reject
+142.1,6.2,75.2,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+185,6.4,81,Granola,Manual,Suhu Ruang,Tidak,Belum Matang,Reject
+185.4,5.7,83,Granola,Mesin,Gudang,Tidak,Belum Matang,Reject
+121.6,5.3,81.3,Kentang Merah,Manual,Suhu Ruang,Tidak,Matang,Reject
+153.9,6.2,77.1,Atlantik,Mesin,Cold Storage,Tidak,Matang,Standard
+270.8,7.6,77.8,Atlantik,Manual,Suhu Ruang,Ya,Sangat Matang,Standard
+241.4,7.4,76.2,Russet,Manual,Suhu Ruang,Tidak,Matang,Premium
+164.4,5.8,82.9,Atlantik,Manual,Cold Storage,Tidak,Belum Matang,Reject
+172.1,6.7,74.6,Kentang Merah,Mesin,Gudang,Ya,Matang,Reject
+226.2,7.4,81.1,Russet,Mesin,Suhu Ruang,Tidak,Belum Matang,Reject
+181.1,6.6,66.9,Atlantik,Manual,Suhu Ruang,Ya,Sangat Matang,Premium
+209.7,7.1,74.1,Atlantik,Mesin,Gudang,Tidak,Matang,Premium
+94.8,4.8,78.2,Kentang Merah,Mesin,Gudang,Tidak,Matang,Reject
+242.3,7.5,73.6,Russet,Manual,Suhu Ruang,Tidak,Matang,Premium
+207,6.4,78.1,Kentang Merah,Mesin,Gudang,Tidak,Matang,Standard
+186.3,5.7,75.4,Granola,Manual,Suhu Ruang,Ya,Sangat Matang,Standard
+126.8,5.5,78.7,Kentang Merah,Manual,Gudang,Tidak,Belum Matang,Reject
+212.3,7,77.5,Russet,Mesin,Gudang,Tidak,Belum Matang,Standard
+155.6,6.3,78.8,Granola,Manual,Suhu Ruang,Tidak,Belum Matang,Reject
+181.1,6.9,74.5,Atlantik,Mesin,Suhu Ruang,Tidak,Matang,Standard
+216.8,7.5,76.7,Russet,Mesin,Suhu Ruang,Tidak,Matang,Standard
+202.1,6.4,80.3,Granola,Mesin,Suhu Ruang,Tidak,Belum Matang,Reject
+129.3,5.3,76.2,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+170.2,6.3,81.4,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+156.7,6.8,78.1,Granola,Mesin,Cold Storage,Tidak,Belum Matang,Standard
+203.2,7.3,76.6,Atlantik,Manual,Gudang,Tidak,Sangat Matang,Premium
+150.6,6.2,74.3,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+216.5,6.9,77.2,Granola,Mesin,Gudang,Ya,Matang,Standard
+183.6,6.1,80.1,Kentang Merah,Manual,Cold Storage,Tidak,Matang,Standard
+263.6,8.1,79.9,Russet,Manual,Suhu Ruang,Ya,Matang,Standard
+117,4.9,71.9,Granola,Manual,Suhu Ruang,Tidak,Sangat Matang,Standard
+169,6.1,78.4,Kentang Merah,Mesin,Gudang,Ya,Matang,Reject
+154.2,5.9,78.1,Kentang Merah,Manual,Suhu Ruang,Ya,Matang,Reject
+113.8,5.7,71.6,Granola,Manual,Gudang,Tidak,Sangat Matang,Premium
+139.1,5.5,74.6,Kentang Merah,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+182.8,5.5,77.8,Granola,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+159.5,6.2,78.2,Kentang Merah,Mesin,Suhu Ruang,Tidak,Matang,Standard
+236.2,7.1,81.5,Russet,Manual,Gudang,Tidak,Belum Matang,Standard
+240.2,7.4,78.7,Russet,Mesin,Gudang,Tidak,Matang,Standard
+221.6,7,73.2,Granola,Mesin,Gudang,Tidak,Matang,Premium
+182.9,6.3,78.2,Kentang Merah,Manual,Gudang,Tidak,Matang,Standard
+69.7,4.7,74.4,Granola,Mesin,Suhu Ruang,Ya,Matang,Reject
+158.9,5.4,75.5,Granola,Mesin,Cold Storage,Ya,Matang,Standard
+164.2,5.9,82.6,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+168.7,6.4,76.3,Russet,Manual,Gudang,Tidak,Matang,Standard
+173.3,6,75.1,Granola,Manual,Gudang,Ya,Matang,Standard
+183.7,5.9,80,Kentang Merah,Mesin,Gudang,Tidak,Matang,Standard
+192,6.8,74.5,Russet,Mesin,Gudang,Tidak,Matang,Premium
+181.8,6.8,75.8,Granola,Mesin,Suhu Ruang,Ya,Matang,Reject
+137.9,5.6,80.2,Granola,Mesin,Gudang,Tidak,Matang,Standard
+146.5,5.1,77.1,Granola,Manual,Suhu Ruang,Ya,Matang,Reject
+281.7,8.4,72.9,Russet,Mesin,Cold Storage,Tidak,Matang,Premium
+211,6.3,78.4,Russet,Mesin,Gudang,Tidak,Matang,Standard
+186.2,6.6,76,Granola,Mesin,Gudang,Ya,Matang,Standard
+74.5,4.2,81,Kentang Merah,Manual,Gudang,Ya,Matang,Reject
+235.2,6.9,75.4,Granola,Manual,Cold Storage,Tidak,Matang,Premium
+251.1,7.4,79.7,Russet,Mesin,Suhu Ruang,Ya,Matang,Reject
+133.6,5.5,77.6,Kentang Merah,Mesin,Suhu Ruang,Tidak,Sangat Matang,Standard
+250.1,7.4,74.8,Russet,Mesin,Suhu Ruang,Tidak,Matang,Premium
+180.7,6.6,76.5,Russet,Manual,Gudang,Ya,Matang,Standard
+181.4,6.2,74,Kentang Merah,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+158.7,6.3,70.8,Granola,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+162.9,6.1,77.7,Granola,Manual,Cold Storage,Tidak,Matang,Standard
+152.8,5.6,76.4,Granola,Manual,Suhu Ruang,Ya,Matang,Reject
+169.7,5.9,72.4,Atlantik,Mesin,Gudang,Tidak,Sangat Matang,Premium
+254.3,7.1,77.1,Russet,Manual,Suhu Ruang,Ya,Matang,Standard
+239,7.5,80.2,Russet,Mesin,Gudang,Tidak,Belum Matang,Standard
+162.8,5.9,80.4,Kentang Merah,Manual,Gudang,Ya,Belum Matang,Reject
+169.7,5.3,71.4,Granola,Mesin,Gudang,Ya,Sangat Matang,Standard
+248,7.4,75.6,Russet,Mesin,Suhu Ruang,Tidak,Matang,Premium
+155.3,5.6,76.7,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+248,8.1,76.9,Granola,Mesin,Cold Storage,Tidak,Matang,Premium
+175.1,5.7,75.9,Russet,Manual,Gudang,Ya,Matang,Standard
+184.1,5.9,77.8,Kentang Merah,Mesin,Gudang,Ya,Matang,Reject
+277.9,8.5,68.3,Russet,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+140.2,6.1,75.1,Granola,Mesin,Suhu Ruang,Ya,Matang,Reject
+308,8.3,72.3,Russet,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+204.8,6.6,70.8,Granola,Mesin,Suhu Ruang,Tidak,Sangat Matang,Premium
+174,6.5,81.2,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+231,6.4,77,Russet,Mesin,Suhu Ruang,Ya,Matang,Standard
+162.4,5.4,80.5,Granola,Manual,Suhu Ruang,Ya,Belum Matang,Reject
+162.7,5.9,71.7,Granola,Mesin,Gudang,Tidak,Sangat Matang,Premium
+183.7,7,77,Granola,Mesin,Gudang,Tidak,Matang,Standard
+189,6.4,73.8,Kentang Merah,Manual,Cold Storage,Tidak,Matang,Premium
+196.3,6.7,72.6,Atlantik,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+198.1,7.1,77.6,Russet,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+258.9,8.5,72.3,Russet,Manual,Suhu Ruang,Tidak,Sangat Matang,Premium
+222.2,6.9,73.3,Atlantik,Mesin,Gudang,Tidak,Belum Matang,Premium
+192.9,6.6,74.1,Granola,Mesin,Gudang,Tidak,Matang,Premium
+166.1,6.7,80.8,Kentang Merah,Mesin,Gudang,Tidak,Matang,Reject
+160.5,5.5,79.2,Granola,Manual,Cold Storage,Ya,Matang,Standard
+157.5,6.3,80.4,Atlantik,Mesin,Cold Storage,Tidak,Matang,Standard
+199.6,6.3,76.6,Russet,Manual,Suhu Ruang,Ya,Sangat Matang,Standard
+172.8,6.3,78.7,Russet,Mesin,Gudang,Tidak,Matang,Standard
+148.3,5.7,75.8,Kentang Merah,Manual,Gudang,Ya,Matang,Standard
+167.1,5.8,70.3,Granola,Mesin,Gudang,Tidak,Sangat Matang,Premium
+174.6,5.9,76,Atlantik,Mesin,Suhu Ruang,Tidak,Sangat Matang,Standard
+86.6,4.8,80.2,Atlantik,Mesin,Gudang,Tidak,Belum Matang,Reject
+146.3,6.1,79.5,Atlantik,Mesin,Gudang,Ya,Sangat Matang,Reject
+209.2,6.8,79.1,Granola,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+146.7,5.8,82.1,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+182.6,6.6,76.6,Granola,Manual,Gudang,Tidak,Matang,Premium
+121.3,5,76.5,Granola,Mesin,Gudang,Ya,Sangat Matang,Reject
+240.4,7.7,84.4,Atlantik,Mesin,Gudang,Tidak,Belum Matang,Standard
+225,7.4,77.3,Russet,Mesin,Cold Storage,Tidak,Belum Matang,Standard
+240.2,8.3,75.7,Russet,Mesin,Suhu Ruang,Ya,Matang,Standard
+271.4,7.8,77.3,Atlantik,Mesin,Suhu Ruang,Ya,Belum Matang,Standard
+243.1,7.3,73.8,Atlantik,Mesin,Gudang,Tidak,Matang,Premium
+159.3,6.3,78.7,Granola,Mesin,Gudang,Ya,Matang,Reject
+169.2,6.4,76.5,Atlantik,Manual,Suhu Ruang,Ya,Matang,Reject
+158.6,5.8,80.1,Granola,Mesin,Cold Storage,Tidak,Belum Matang,Standard
+187.8,6.3,78.4,Granola,Mesin,Suhu Ruang,Tidak,Matang,Standard
+186.3,6.6,68.2,Atlantik,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+176.2,6,80.3,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+221.4,6.9,79.1,Granola,Manual,Cold Storage,Tidak,Belum Matang,Standard
+186,6.5,81.4,Atlantik,Manual,Cold Storage,Tidak,Belum Matang,Standard
+270.5,8.3,78.6,Atlantik,Mesin,Cold Storage,Tidak,Matang,Premium
+233.2,7.1,76.6,Russet,Manual,Gudang,Tidak,Sangat Matang,Premium
+292.5,7.7,76.7,Russet,Manual,Cold Storage,Tidak,Matang,Premium
+242.5,6.8,74.5,Russet,Manual,Cold Storage,Tidak,Belum Matang,Premium
+203.7,6.3,77.1,Granola,Mesin,Suhu Ruang,Tidak,Matang,Standard
+204.6,6.3,80.5,Russet,Mesin,Gudang,Tidak,Belum Matang,Standard
+160.1,5.9,74.3,Atlantik,Manual,Cold Storage,Tidak,Matang,Premium
+206.1,6.4,73.4,Atlantik,Manual,Gudang,Tidak,Sangat Matang,Premium
+264.6,7.6,76.1,Russet,Mesin,Gudang,Tidak,Matang,Premium
+191.4,6.3,76.5,Atlantik,Manual,Gudang,Tidak,Belum Matang,Standard
+145,5.6,78.7,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+182.4,6.9,78.5,Russet,Mesin,Suhu Ruang,Tidak,Belum Matang,Reject
+90.1,5,78.9,Kentang Merah,Manual,Gudang,Tidak,Belum Matang,Reject
+78.1,4.6,75.8,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+193.8,6.4,80.2,Atlantik,Manual,Suhu Ruang,Ya,Matang,Reject
+229.4,7.1,76.9,Atlantik,Manual,Gudang,Ya,Matang,Standard
+229.5,7.3,73.2,Russet,Mesin,Suhu Ruang,Tidak,Sangat Matang,Premium
+90.9,5,75.9,Granola,Mesin,Suhu Ruang,Tidak,Matang,Reject
+133.3,5.2,74.2,Kentang Merah,Mesin,Cold Storage,Tidak,Sangat Matang,Standard
+184.3,6.4,80.5,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+243.4,6.7,78.7,Granola,Manual,Gudang,Tidak,Matang,Standard
+119,5.4,74.8,Granola,Mesin,Suhu Ruang,Ya,Sangat Matang,Reject
+126.3,5.7,81.6,Kentang Merah,Mesin,Cold Storage,Tidak,Belum Matang,Reject
+229.7,7.1,73.4,Granola,Mesin,Suhu Ruang,Tidak,Matang,Premium
+185.7,7.1,74.7,Granola,Manual,Cold Storage,Tidak,Matang,Premium
+209.7,6.6,76.5,Atlantik,Mesin,Suhu Ruang,Tidak,Matang,Standard
+174,6.3,71.1,Granola,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+181.5,6.4,74.2,Granola,Mesin,Cold Storage,Tidak,Matang,Premium
+257.2,7.7,68.1,Russet,Manual,Suhu Ruang,Ya,Sangat Matang,Premium
+141.7,5.6,76.5,Granola,Mesin,Gudang,Ya,Belum Matang,Reject
+170.7,6.2,79.3,Kentang Merah,Manual,Suhu Ruang,Tidak,Belum Matang,Standard
+91.9,5.1,76.8,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+201.5,7.2,70.9,Atlantik,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+176.3,6.3,80.2,Granola,Mesin,Cold Storage,Tidak,Belum Matang,Standard
+208.4,7.1,71.9,Russet,Mesin,Suhu Ruang,Tidak,Sangat Matang,Premium
+169.2,5.9,79.8,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+168.2,6.4,76.6,Atlantik,Mesin,Cold Storage,Tidak,Matang,Standard
+102.5,4.7,78.8,Kentang Merah,Mesin,Suhu Ruang,Ya,Matang,Reject
+127.6,5.8,80.5,Kentang Merah,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+191.4,7.3,69.4,Russet,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+181.3,6.3,76.8,Granola,Mesin,Suhu Ruang,Tidak,Matang,Standard
+189.7,5.8,73.8,Russet,Mesin,Gudang,Tidak,Matang,Standard
+254.9,7.5,76.7,Russet,Mesin,Cold Storage,Tidak,Matang,Premium
+148.6,6.2,75.1,Atlantik,Mesin,Suhu Ruang,Ya,Matang,Reject
+210.2,7.1,78,Russet,Mesin,Gudang,Ya,Matang,Reject
+148.1,5.9,69.5,Granola,Manual,Gudang,Tidak,Sangat Matang,Premium
+216.4,7.3,77,Granola,Mesin,Gudang,Ya,Matang,Standard
+201.6,6.9,78.5,Atlantik,Manual,Cold Storage,Ya,Matang,Standard
+162.6,6.5,79.4,Granola,Manual,Suhu Ruang,Tidak,Matang,Standard
+187.5,6.8,75,Granola,Manual,Gudang,Tidak,Matang,Standard
+66.2,4.9,77,Kentang Merah,Manual,Cold Storage,Tidak,Matang,Standard
+138.5,5.7,77.5,Kentang Merah,Manual,Suhu Ruang,Ya,Matang,Reject
+259.9,8.1,81,Atlantik,Mesin,Cold Storage,Tidak,Matang,Premium
+144.6,5.6,73.1,Kentang Merah,Manual,Suhu Ruang,Tidak,Matang,Standard
+142.4,5.5,70.6,Kentang Merah,Mesin,Gudang,Tidak,Sangat Matang,Premium
+189.2,7.1,80.3,Granola,Manual,Suhu Ruang,Tidak,Sangat Matang,Standard
+221.3,7.1,72.3,Atlantik,Mesin,Gudang,Tidak,Sangat Matang,Premium
+120.1,5.6,72.1,Atlantik,Mesin,Cold Storage,Tidak,Matang,Premium
+111.1,5.2,75.5,Granola,Manual,Cold Storage,Tidak,Matang,Standard
+237.4,7.1,72.8,Russet,Mesin,Cold Storage,Tidak,Belum Matang,Premium
+165,6.1,77.6,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+235.9,7.8,79.1,Atlantik,Mesin,Cold Storage,Tidak,Matang,Premium
+159,6.2,77.6,Granola,Manual,Gudang,Tidak,Belum Matang,Standard
+102.3,4.4,71.8,Granola,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+95.6,4.8,75.4,Kentang Merah,Mesin,Gudang,Tidak,Sangat Matang,Standard
+73.8,5.1,72.4,Granola,Manual,Cold Storage,Tidak,Matang,Standard
+161.8,6,73.6,Granola,Mesin,Suhu Ruang,Ya,Matang,Reject
+163.4,5.4,76.4,Granola,Manual,Gudang,Tidak,Matang,Standard
+175.1,6.9,75,Atlantik,Mesin,Cold Storage,Tidak,Matang,Premium
+227.8,7.4,72.2,Atlantik,Manual,Suhu Ruang,Ya,Sangat Matang,Standard
+231.9,7.2,69.7,Atlantik,Manual,Suhu Ruang,Tidak,Sangat Matang,Premium
+164,5.9,77.6,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+95.3,5.2,76.6,Granola,Mesin,Gudang,Tidak,Matang,Standard
+161.6,5.8,78.4,Kentang Merah,Mesin,Suhu Ruang,Ya,Matang,Reject
+249.4,8,80.5,Russet,Mesin,Gudang,Tidak,Belum Matang,Standard
+240.8,7.6,77.5,Russet,Manual,Gudang,Tidak,Matang,Premium
+264.4,7.9,76.2,Russet,Manual,Gudang,Tidak,Belum Matang,Premium
+189.2,6.6,81.3,Russet,Manual,Cold Storage,Tidak,Belum Matang,Standard
+240.3,7.3,76.1,Granola,Mesin,Cold Storage,Tidak,Matang,Premium
+156.4,6.3,79.6,Atlantik,Manual,Gudang,Tidak,Belum Matang,Standard
+216.2,6.7,79.7,Atlantik,Mesin,Cold Storage,Tidak,Matang,Premium
+130.9,4.9,78.1,Atlantik,Manual,Gudang,Tidak,Belum Matang,Standard
+107.4,5.3,76.5,Kentang Merah,Manual,Cold Storage,Tidak,Sangat Matang,Standard
+243.1,7.7,80.8,Atlantik,Manual,Suhu Ruang,Tidak,Matang,Standard
+220.9,7.2,82,Russet,Manual,Suhu Ruang,Ya,Belum Matang,Reject
+169.4,6.3,77.5,Kentang Merah,Manual,Cold Storage,Tidak,Belum Matang,Standard
+198.3,6.6,71.3,Atlantik,Mesin,Cold Storage,Ya,Matang,Premium
+136.3,5.9,79.8,Kentang Merah,Manual,Gudang,Tidak,Matang,Standard
+237.7,7.3,77.3,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+131.7,5.3,78.1,Kentang Merah,Mesin,Gudang,Tidak,Belum Matang,Reject
+127.7,5.3,76.1,Atlantik,Mesin,Gudang,Tidak,Sangat Matang,Standard
+161.9,6.7,77.8,Atlantik,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+209.3,6.3,75.9,Atlantik,Manual,Suhu Ruang,Ya,Matang,Standard
+183.8,6.6,74.4,Granola,Manual,Gudang,Tidak,Sangat Matang,Premium
+135.2,5,74.1,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+114.6,5.2,76.7,Kentang Merah,Mesin,Gudang,Ya,Matang,Reject
+209.6,6.7,75.8,Russet,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+157.2,5.2,77.5,Granola,Manual,Cold Storage,Tidak,Matang,Premium
+141.8,5.8,83.2,Atlantik,Mesin,Gudang,Tidak,Belum Matang,Reject
+148,5.7,79.9,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+144.5,5,80,Granola,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+167,6.4,66.9,Kentang Merah,Mesin,Gudang,Tidak,Sangat Matang,Premium
+218.3,7.5,74.1,Atlantik,Mesin,Cold Storage,Tidak,Matang,Premium
+164.9,6.6,79,Granola,Mesin,Gudang,Tidak,Matang,Standard
+176.3,6.4,76,Atlantik,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+174.9,6.3,76.2,Granola,Manual,Suhu Ruang,Ya,Matang,Reject
+141.4,6.1,77.9,Granola,Manual,Suhu Ruang,Ya,Matang,Reject
+189.9,7.1,83.8,Russet,Mesin,Gudang,Ya,Belum Matang,Reject
+197.1,7,71.5,Russet,Mesin,Gudang,Tidak,Sangat Matang,Premium
+117.8,4.9,75.3,Kentang Merah,Manual,Suhu Ruang,Ya,Matang,Reject
+189.3,6.6,72.9,Russet,Mesin,Gudang,Ya,Sangat Matang,Standard
+195.7,6.8,77.9,Atlantik,Manual,Suhu Ruang,Tidak,Matang,Standard
+255.5,7,79.6,Russet,Mesin,Gudang,Tidak,Belum Matang,Standard
+84.5,4.8,79.7,Kentang Merah,Manual,Cold Storage,Tidak,Matang,Standard
+230.9,8,70.9,Russet,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+132.3,5.7,77.3,Kentang Merah,Mesin,Suhu Ruang,Tidak,Matang,Standard
+242,7.9,81.2,Russet,Manual,Suhu Ruang,Ya,Belum Matang,Reject
+139.5,5.7,72,Kentang Merah,Manual,Suhu Ruang,Tidak,Sangat Matang,Standard
+119.1,5.3,82.2,Granola,Mesin,Gudang,Tidak,Belum Matang,Reject
+185.8,6.6,77.4,Russet,Manual,Suhu Ruang,Ya,Matang,Reject
+191,6.3,79.1,Atlantik,Manual,Suhu Ruang,Tidak,Matang,Standard
+226,6.8,80.5,Atlantik,Mesin,Cold Storage,Tidak,Belum Matang,Standard
+152.5,6.3,81,Russet,Manual,Cold Storage,Tidak,Belum Matang,Standard
+152.1,6.3,78.4,Kentang Merah,Manual,Suhu Ruang,Ya,Belum Matang,Reject
+181.6,6,71.4,Kentang Merah,Manual,Gudang,Tidak,Sangat Matang,Premium
+164.6,6.4,80.2,Granola,Mesin,Gudang,Ya,Matang,Reject
+249.3,7.5,78.7,Russet,Manual,Cold Storage,Tidak,Matang,Premium
+205.4,6.9,70.3,Russet,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+185.8,6.6,77.5,Atlantik,Manual,Suhu Ruang,Tidak,Matang,Standard
+113.3,5.5,70.8,Granola,Manual,Suhu Ruang,Ya,Matang,Reject
+87.9,4.8,75.5,Granola,Manual,Gudang,Tidak,Matang,Standard
+263,8.3,79.5,Russet,Manual,Cold Storage,Tidak,Matang,Premium
+155.5,6,76.7,Atlantik,Manual,Cold Storage,Tidak,Matang,Premium
+124.1,5.6,73.3,Kentang Merah,Manual,Suhu Ruang,Tidak,Sangat Matang,Standard
+141.5,5.4,65.2,Atlantik,Mesin,Gudang,Ya,Sangat Matang,Premium
+90.7,5.5,76,Kentang Merah,Manual,Suhu Ruang,Tidak,Matang,Standard
+183.9,6.6,77.9,Atlantik,Manual,Cold Storage,Tidak,Matang,Premium
+204.5,7,74.2,Russet,Mesin,Cold Storage,Ya,Sangat Matang,Standard
+183.2,5.8,82.5,Granola,Mesin,Gudang,Tidak,Belum Matang,Reject
+205.8,6.5,72.5,Atlantik,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+241.2,7.9,76.6,Russet,Manual,Gudang,Ya,Matang,Standard
+148.4,5.9,73.5,Kentang Merah,Manual,Gudang,Tidak,Matang,Standard
+195.2,5.9,72.5,Kentang Merah,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+132.6,5.9,73.7,Granola,Manual,Gudang,Tidak,Matang,Standard
+188.1,6.3,75.2,Atlantik,Manual,Cold Storage,Tidak,Belum Matang,Premium
+209.6,7.4,70.2,Granola,Mesin,Suhu Ruang,Tidak,Sangat Matang,Premium
+214.3,6.9,80.9,Granola,Manual,Suhu Ruang,Tidak,Matang,Standard
+180.2,6.4,76.3,Russet,Mesin,Gudang,Tidak,Matang,Standard
+219.1,7.4,77.6,Russet,Manual,Suhu Ruang,Ya,Matang,Standard
+277.5,7.7,75.7,Russet,Manual,Suhu Ruang,Tidak,Matang,Premium
+157.8,5.6,72.3,Kentang Merah,Mesin,Gudang,Tidak,Matang,Premium
+236.8,7.3,82.4,Russet,Mesin,Suhu Ruang,Tidak,Belum Matang,Reject
+222.4,7.4,71.4,Russet,Manual,Suhu Ruang,Ya,Matang,Standard
+156.6,5.5,71.6,Granola,Mesin,Suhu Ruang,Tidak,Sangat Matang,Standard
+180.1,5.8,79.9,Granola,Manual,Suhu Ruang,Tidak,Belum Matang,Reject
+221.2,7.4,77.6,Russet,Manual,Cold Storage,Tidak,Matang,Premium
+138.5,5.4,75.1,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+172.8,6.1,68.2,Granola,Manual,Suhu Ruang,Ya,Sangat Matang,Standard
+166.3,5.5,74.9,Atlantik,Manual,Cold Storage,Tidak,Matang,Premium
+248.6,7.3,71.1,Russet,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+272,8,75,Granola,Manual,Cold Storage,Tidak,Matang,Premium
+127.8,5.8,79.5,Atlantik,Manual,Gudang,Ya,Matang,Reject
+151.3,5.6,69.8,Kentang Merah,Manual,Suhu Ruang,Ya,Sangat Matang,Standard
+203.4,7.3,73.8,Russet,Mesin,Gudang,Ya,Sangat Matang,Standard
+190.2,6.3,77.4,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+141.6,5.4,79.5,Kentang Merah,Manual,Cold Storage,Tidak,Matang,Standard
+216.7,7.5,76.7,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+181.1,6.4,82.1,Kentang Merah,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+176.7,6.1,72.6,Granola,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+229.6,7.2,74.1,Atlantik,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+107.9,5.6,73.1,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+225.7,7.7,70.1,Granola,Manual,Gudang,Tidak,Matang,Premium
+153.1,5.6,78,Kentang Merah,Manual,Gudang,Ya,Matang,Reject
+207.7,6.8,81.1,Granola,Manual,Gudang,Tidak,Belum Matang,Standard
+127.3,5.5,78.2,Granola,Manual,Gudang,Tidak,Matang,Standard
+160.9,5.7,75.6,Atlantik,Manual,Cold Storage,Tidak,Matang,Premium
+235.1,7.3,80.9,Russet,Mesin,Cold Storage,Tidak,Matang,Standard
+229.4,7.2,75.8,Russet,Manual,Gudang,Ya,Matang,Standard
+149.9,6.2,74.1,Kentang Merah,Mesin,Gudang,Ya,Sangat Matang,Standard
+208,7.3,81.5,Granola,Mesin,Gudang,Tidak,Belum Matang,Standard
+128.2,5.3,81.5,Atlantik,Manual,Suhu Ruang,Tidak,Matang,Reject
+204.1,6.7,76.2,Granola,Manual,Suhu Ruang,Ya,Matang,Standard
+190.3,6.8,78.3,Atlantik,Manual,Suhu Ruang,Tidak,Belum Matang,Standard
+132.9,5.3,73.1,Kentang Merah,Mesin,Gudang,Tidak,Matang,Standard
+178.5,6.5,81,Russet,Manual,Suhu Ruang,Ya,Matang,Reject
+207.6,6.8,81.1,Atlantik,Mesin,Gudang,Tidak,Belum Matang,Standard
+105.5,4.7,81.2,Atlantik,Mesin,Cold Storage,Tidak,Belum Matang,Reject
+162.7,5.7,81.1,Kentang Merah,Mesin,Suhu Ruang,Tidak,Sangat Matang,Standard
+137.8,6.1,77.8,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+171.9,6.2,73.6,Granola,Mesin,Cold Storage,Tidak,Matang,Premium
+185.8,7,76.5,Atlantik,Mesin,Gudang,Ya,Matang,Standard
+210.9,6.7,70.5,Granola,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+163.7,6.2,76,Granola,Mesin,Gudang,Tidak,Matang,Standard
+145.7,6.6,72,Granola,Mesin,Gudang,Tidak,Sangat Matang,Premium
+172.3,5.8,75.5,Atlantik,Mesin,Gudang,Ya,Matang,Standard
+274.6,7.3,73.4,Russet,Mesin,Suhu Ruang,Ya,Matang,Standard
+208.8,7.3,81.1,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+176.5,6,77.8,Atlantik,Mesin,Gudang,Ya,Matang,Reject
+131.7,5.5,76.4,Kentang Merah,Mesin,Suhu Ruang,Ya,Matang,Reject
+175.1,6.1,82,Russet,Manual,Gudang,Tidak,Belum Matang,Reject
+203.6,6.9,78.2,Atlantik,Mesin,Suhu Ruang,Tidak,Matang,Standard
+108.4,4.8,77.7,Granola,Mesin,Gudang,Tidak,Matang,Standard
+166.3,6,81.8,Kentang Merah,Mesin,Cold Storage,Tidak,Belum Matang,Standard
+174.5,6.4,77.3,Granola,Manual,Suhu Ruang,Ya,Matang,Reject
+273.5,7.6,78.7,Atlantik,Mesin,Gudang,Tidak,Matang,Premium
+101.5,4.7,79,Kentang Merah,Mesin,Gudang,Tidak,Matang,Standard
+186.4,6.3,73.4,Atlantik,Mesin,Gudang,Tidak,Sangat Matang,Premium
+292.9,7.8,76.4,Russet,Mesin,Cold Storage,Tidak,Matang,Premium
+231.7,7.1,77,Atlantik,Mesin,Gudang,Tidak,Sangat Matang,Premium
+205.6,6.8,71.8,Russet,Mesin,Suhu Ruang,Tidak,Sangat Matang,Premium
+177.8,6.2,81,Granola,Manual,Cold Storage,Tidak,Belum Matang,Standard
+170.1,6.1,74.1,Granola,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+199.9,6.7,78.4,Atlantik,Manual,Cold Storage,Tidak,Belum Matang,Standard
+145.5,5.5,74.9,Granola,Mesin,Suhu Ruang,Tidak,Matang,Standard
+136.9,5.8,72.1,Kentang Merah,Mesin,Suhu Ruang,Tidak,Sangat Matang,Standard
+114.1,5.7,75.7,Granola,Manual,Gudang,Tidak,Matang,Standard
+194.7,6.4,73.2,Atlantik,Manual,Suhu Ruang,Tidak,Matang,Standard
+245.8,7.7,75.3,Russet,Manual,Suhu Ruang,Tidak,Matang,Premium
+222,7,80.7,Russet,Mesin,Cold Storage,Tidak,Belum Matang,Standard
+133.5,5.7,83.3,Atlantik,Mesin,Suhu Ruang,Tidak,Belum Matang,Reject
+224.6,7.7,81.4,Atlantik,Manual,Suhu Ruang,Tidak,Belum Matang,Standard
+152.8,6.1,73.2,Kentang Merah,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+204.6,6.2,78.7,Russet,Manual,Gudang,Ya,Matang,Standard
+220.2,7.2,75.5,Russet,Mesin,Gudang,Tidak,Matang,Standard
+87.5,5.2,78.2,Kentang Merah,Manual,Cold Storage,Tidak,Matang,Standard
+194.1,6.5,77,Russet,Manual,Suhu Ruang,Tidak,Matang,Standard
+151.2,6.2,79.5,Granola,Manual,Suhu Ruang,Ya,Belum Matang,Reject
+233,7,76.7,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+147.6,5.3,72.9,Granola,Mesin,Gudang,Tidak,Sangat Matang,Premium
+252.4,7.7,76.5,Russet,Mesin,Gudang,Tidak,Sangat Matang,Premium
+121.2,4.7,76.9,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+198.7,6.6,82.8,Atlantik,Manual,Gudang,Tidak,Belum Matang,Reject
+185.1,6.9,75.4,Atlantik,Manual,Gudang,Ya,Sangat Matang,Standard
+200.6,6,74.7,Granola,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+121.3,4.9,72.4,Kentang Merah,Mesin,Suhu Ruang,Ya,Matang,Reject
+115,4.9,79.9,Granola,Manual,Cold Storage,Tidak,Matang,Standard
+121.6,5.3,78.8,Granola,Mesin,Gudang,Ya,Belum Matang,Reject
+151.4,5.7,78.9,Granola,Manual,Gudang,Tidak,Matang,Standard
+126.3,5.9,70.5,Granola,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+204.4,7.1,73.9,Atlantik,Manual,Gudang,Tidak,Matang,Premium
+173.7,6.4,82.1,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+253.1,7.7,74.5,Granola,Mesin,Suhu Ruang,Ya,Matang,Standard
+109.2,5.2,76,Granola,Mesin,Gudang,Tidak,Sangat Matang,Standard
+177.1,6,77.3,Granola,Manual,Gudang,Tidak,Matang,Standard
+150.5,6.1,71.9,Atlantik,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+152.7,5.5,76.9,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+234.9,7.6,73.6,Russet,Mesin,Gudang,Tidak,Matang,Premium
+88.6,5.2,77,Granola,Mesin,Gudang,Tidak,Matang,Standard
+178.3,6.4,74.2,Granola,Mesin,Suhu Ruang,Ya,Matang,Standard
+256.6,7.6,72,Atlantik,Mesin,Gudang,Tidak,Sangat Matang,Premium
+174.1,6.4,79.4,Atlantik,Mesin,Suhu Ruang,Ya,Matang,Reject
+179.1,5.3,77.7,Granola,Mesin,Suhu Ruang,Ya,Matang,Reject
+205.9,6.9,73.1,Granola,Mesin,Gudang,Tidak,Matang,Premium
+134.3,5.5,79.2,Kentang Merah,Manual,Suhu Ruang,Tidak,Matang,Reject
+149.7,5.8,77,Granola,Mesin,Suhu Ruang,Tidak,Matang,Standard
+110.3,5.4,75.6,Atlantik,Mesin,Gudang,Ya,Matang,Reject
+212.4,6.9,78.9,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+186,6.1,76.6,Atlantik,Mesin,Cold Storage,Tidak,Matang,Premium
+154.6,5.9,74,Atlantik,Mesin,Cold Storage,Tidak,Matang,Standard
+234.4,7.3,84.8,Russet,Manual,Gudang,Tidak,Belum Matang,Reject
+119.6,5.3,77,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+151.5,5.9,76.8,Granola,Mesin,Cold Storage,Tidak,Matang,Premium
+211.2,7.3,75.9,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+123.2,5,80.1,Granola,Manual,Cold Storage,Tidak,Matang,Standard
+226.7,7.2,75.6,Atlantik,Manual,Suhu Ruang,Tidak,Matang,Premium
+181.1,6.8,69,Russet,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+146.8,5.2,75.2,Granola,Manual,Gudang,Tidak,Matang,Standard
+257.3,7.8,80.4,Atlantik,Manual,Suhu Ruang,Tidak,Matang,Standard
+179.5,6.1,79.2,Kentang Merah,Manual,Suhu Ruang,Ya,Matang,Reject
+173.4,6.1,76.3,Granola,Manual,Cold Storage,Tidak,Matang,Premium
+157.1,5.6,80.6,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+211.5,6.8,78.9,Russet,Mesin,Suhu Ruang,Tidak,Matang,Standard
+172.6,6.9,72.3,Granola,Mesin,Suhu Ruang,Tidak,Sangat Matang,Premium
+171.3,5.8,79.6,Granola,Mesin,Gudang,Tidak,Belum Matang,Reject
+166.8,5.7,77.9,Granola,Manual,Cold Storage,Tidak,Matang,Premium
+138.9,5.2,77.8,Kentang Merah,Manual,Cold Storage,Tidak,Belum Matang,Standard
+162.5,6.6,77,Granola,Manual,Gudang,Tidak,Matang,Standard
+119.5,5.1,77.8,Granola,Manual,Suhu Ruang,Tidak,Matang,Standard
+151.9,5.8,72.6,Granola,Manual,Suhu Ruang,Tidak,Matang,Standard
+202,6.6,76.5,Granola,Manual,Gudang,Tidak,Matang,Premium
+182.1,6.1,72.2,Russet,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+163.4,6,75.7,Granola,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+161.3,6.9,72.2,Atlantik,Mesin,Gudang,Tidak,Matang,Premium
+193.9,7.1,72,Atlantik,Mesin,Gudang,Tidak,Sangat Matang,Premium
+126.4,5.1,75.7,Kentang Merah,Mesin,Gudang,Ya,Matang,Reject
+221.7,7.3,75.5,Granola,Mesin,Gudang,Tidak,Sangat Matang,Premium
+157.7,5.7,79.9,Kentang Merah,Mesin,Gudang,Tidak,Belum Matang,Reject
+184.1,5.8,81.7,Russet,Manual,Cold Storage,Tidak,Matang,Standard
+193.5,6.9,78.7,Granola,Mesin,Gudang,Tidak,Matang,Standard
+202.9,7.2,78.9,Russet,Manual,Cold Storage,Tidak,Belum Matang,Standard
+119.8,5.7,77.6,Kentang Merah,Manual,Gudang,Tidak,Matang,Standard
+181,6.2,79.1,Granola,Manual,Suhu Ruang,Tidak,Belum Matang,Standard
+122.8,5.3,79.2,Kentang Merah,Manual,Suhu Ruang,Ya,Matang,Reject
+221.2,7.3,76.5,Atlantik,Manual,Gudang,Ya,Belum Matang,Standard
+202.9,6.9,77.9,Russet,Mesin,Gudang,Tidak,Belum Matang,Standard
+118.3,5.1,74.2,Kentang Merah,Mesin,Gudang,Tidak,Sangat Matang,Standard
+167,5.6,80.2,Atlantik,Mesin,Cold Storage,Tidak,Matang,Standard
+210.2,6.9,67.3,Russet,Mesin,Suhu Ruang,Tidak,Sangat Matang,Premium
+208.5,7.2,80.6,Granola,Mesin,Gudang,Tidak,Matang,Standard
+252,7.2,79.6,Russet,Manual,Cold Storage,Tidak,Belum Matang,Standard
+289.8,8.5,72.1,Russet,Mesin,Gudang,Tidak,Matang,Premium
+249.4,7.7,69.2,Granola,Mesin,Gudang,Ya,Matang,Premium
+153.9,6.2,76,Atlantik,Manual,Suhu Ruang,Tidak,Belum Matang,Standard
+172.5,6.5,72.9,Granola,Manual,Gudang,Tidak,Sangat Matang,Premium
+128.8,5.2,76.8,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+142.8,5.1,78.6,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+167.9,6,75.6,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+133,5.8,74.1,Granola,Mesin,Suhu Ruang,Ya,Matang,Reject
+133.2,5.3,75.9,Granola,Manual,Cold Storage,Tidak,Matang,Standard
+225,6.9,73.1,Russet,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+187.4,5.8,77.6,Russet,Manual,Gudang,Tidak,Matang,Standard
+259.5,8.4,77.9,Russet,Manual,Cold Storage,Tidak,Belum Matang,Premium
+137.9,5.9,82.3,Granola,Mesin,Suhu Ruang,Tidak,Belum Matang,Reject
+238.3,7.6,75.4,Kentang Merah,Manual,Suhu Ruang,Tidak,Matang,Premium
+174.2,6.6,70.7,Atlantik,Mesin,Suhu Ruang,Tidak,Sangat Matang,Premium
+172.5,6.4,71.6,Granola,Manual,Suhu Ruang,Ya,Sangat Matang,Standard
+124.7,5.3,79.8,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+289.7,8.2,72.7,Russet,Mesin,Gudang,Tidak,Sangat Matang,Premium
+209.2,6.7,75.2,Granola,Mesin,Suhu Ruang,Ya,Matang,Standard
+200.4,7.6,79.4,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+92.9,5,82.6,Kentang Merah,Mesin,Gudang,Tidak,Matang,Reject
+177.4,6.1,80.5,Granola,Mesin,Gudang,Tidak,Belum Matang,Standard
+130.7,5.7,80.2,Granola,Mesin,Suhu Ruang,Tidak,Matang,Reject
+191.2,6.2,79.7,Kentang Merah,Mesin,Gudang,Ya,Matang,Reject
+218.3,7.5,78.4,Atlantik,Manual,Suhu Ruang,Ya,Belum Matang,Reject
+173.3,6,73.1,Granola,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+60,4.4,69.7,Kentang Merah,Manual,Suhu Ruang,Tidak,Sangat Matang,Standard
+105.6,5.4,76.5,Kentang Merah,Manual,Cold Storage,Tidak,Matang,Standard
+214.1,7.1,75.4,Atlantik,Manual,Cold Storage,Ya,Matang,Standard
+272.5,8,76,Russet,Manual,Suhu Ruang,Ya,Matang,Standard
+208.8,6.9,78.1,Granola,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+114.3,5.2,76.3,Granola,Manual,Cold Storage,Tidak,Matang,Standard
+200.6,6.5,78.4,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+205.5,6.6,76.7,Granola,Manual,Gudang,Tidak,Matang,Premium
+172,6.7,75.2,Russet,Mesin,Suhu Ruang,Tidak,Belum Matang,Standard
+139.7,5.6,78.1,Kentang Merah,Manual,Suhu Ruang,Ya,Belum Matang,Reject
+179.6,6.1,76,Granola,Mesin,Gudang,Tidak,Belum Matang,Standard
+179.5,6.2,73.6,Atlantik,Manual,Cold Storage,Ya,Sangat Matang,Standard
+105.2,5.4,81.3,Granola,Mesin,Suhu Ruang,Tidak,Belum Matang,Reject
+128.6,5.7,77.7,Kentang Merah,Manual,Cold Storage,Tidak,Matang,Standard
+158.5,6.2,75,Granola,Mesin,Gudang,Tidak,Matang,Standard
+224.8,7,77.6,Russet,Manual,Suhu Ruang,Ya,Matang,Reject
+170.3,6.4,75.8,Atlantik,Mesin,Suhu Ruang,Tidak,Matang,Standard
+174.5,6,77,Atlantik,Manual,Suhu Ruang,Tidak,Belum Matang,Standard
+228.6,7.1,78.9,Russet,Mesin,Gudang,Ya,Matang,Standard
+245.5,7.8,79.1,Russet,Mesin,Gudang,Ya,Matang,Standard
+179.3,6.6,79.5,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+215.7,6.6,75.4,Russet,Manual,Suhu Ruang,Ya,Matang,Standard
+143.2,5.4,80.1,Kentang Merah,Manual,Cold Storage,Tidak,Matang,Standard
+122.8,5.4,75.7,Atlantik,Manual,Gudang,Ya,Matang,Standard
+206.7,7.4,78.7,Atlantik,Mesin,Gudang,Ya,Matang,Reject
+170,5.5,75.7,Granola,Manual,Gudang,Tidak,Matang,Standard
+231.4,7.3,79.4,Russet,Manual,Suhu Ruang,Tidak,Belum Matang,Standard
+223.6,6.6,70.7,Atlantik,Mesin,Cold Storage,Tidak,Matang,Premium
+121.7,5.1,76.2,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+100.9,4.8,80.2,Granola,Manual,Gudang,Tidak,Belum Matang,Reject
+149.6,5.7,78.9,Kentang Merah,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+189.8,6.3,81.6,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+236,7.3,74,Russet,Mesin,Gudang,Tidak,Matang,Premium
+153.8,5.7,71.5,Granola,Mesin,Gudang,Tidak,Sangat Matang,Premium
+163.3,5.5,70.6,Kentang Merah,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+202.6,7,71.5,Granola,Manual,Cold Storage,Ya,Sangat Matang,Premium
+186.9,6.7,79.7,Granola,Mesin,Suhu Ruang,Ya,Matang,Reject
+130.9,5.8,80.8,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+66.2,4,75.2,Kentang Merah,Mesin,Gudang,Tidak,Matang,Standard
+196.9,6.8,75.1,Granola,Manual,Cold Storage,Tidak,Matang,Premium
+232.8,7.5,74,Atlantik,Manual,Suhu Ruang,Tidak,Matang,Premium
+252.6,7.3,80.4,Russet,Mesin,Suhu Ruang,Tidak,Matang,Standard
+109.2,5.1,82.9,Kentang Merah,Mesin,Gudang,Tidak,Belum Matang,Reject
+213.6,6.9,79.7,Atlantik,Mesin,Suhu Ruang,Tidak,Belum Matang,Standard
+220.1,7.7,76.4,Atlantik,Mesin,Cold Storage,Ya,Belum Matang,Standard
+284.6,8.9,76.6,Russet,Mesin,Gudang,Tidak,Belum Matang,Standard
+199.3,6.1,73.4,Russet,Manual,Suhu Ruang,Ya,Sangat Matang,Standard
+222.1,8,81.4,Russet,Manual,Gudang,Tidak,Belum Matang,Standard
+216.2,6.7,71.6,Atlantik,Manual,Cold Storage,Tidak,Matang,Premium
+172,6.6,72.2,Granola,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+100.9,5.3,81.2,Kentang Merah,Manual,Gudang,Tidak,Matang,Reject
+154.5,5.6,76.4,Kentang Merah,Mesin,Suhu Ruang,Ya,Matang,Reject
+250.3,7.8,80.9,Russet,Mesin,Suhu Ruang,Ya,Matang,Reject
+173.1,6.2,78.7,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+177.7,6.5,74.2,Granola,Manual,Cold Storage,Tidak,Matang,Premium
+220.9,7.1,72.2,Russet,Mesin,Gudang,Tidak,Sangat Matang,Premium
+221.7,7.5,76.7,Granola,Mesin,Cold Storage,Tidak,Matang,Premium
+108.5,5.1,70.5,Kentang Merah,Mesin,Suhu Ruang,Tidak,Sangat Matang,Standard
+169.4,6.1,70.5,Atlantik,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+230.4,7.6,80.9,Russet,Mesin,Suhu Ruang,Ya,Matang,Reject
+170.8,6.4,74.5,Kentang Merah,Mesin,Suhu Ruang,Tidak,Matang,Standard
+137.6,5.9,79.8,Atlantik,Mesin,Gudang,Ya,Matang,Reject
+124.1,5.1,75.9,Granola,Mesin,Gudang,Tidak,Matang,Standard
+158.7,5.6,76.9,Russet,Manual,Cold Storage,Tidak,Matang,Standard
+191.1,6.3,78.5,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+150.9,5.6,71.4,Atlantik,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+216.5,7.3,78.5,Russet,Mesin,Cold Storage,Tidak,Matang,Premium
+163.1,6.4,71.7,Kentang Merah,Mesin,Gudang,Tidak,Matang,Standard
+167.5,6.1,78.1,Atlantik,Mesin,Cold Storage,Tidak,Matang,Standard
+178.1,6.8,70.6,Granola,Manual,Gudang,Tidak,Matang,Premium
+179.5,6.8,76.4,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+213.5,7,75.2,Atlantik,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+186.6,6.2,78.6,Granola,Manual,Suhu Ruang,Tidak,Matang,Standard
+145.8,6.3,73.6,Granola,Mesin,Cold Storage,Tidak,Matang,Premium
+224.1,7.1,74,Russet,Manual,Gudang,Tidak,Matang,Premium
+226.5,7.2,78.2,Atlantik,Mesin,Gudang,Ya,Belum Matang,Reject
+153.8,5.8,77.5,Kentang Merah,Mesin,Suhu Ruang,Tidak,Matang,Standard
+121.1,5,67.7,Granola,Mesin,Gudang,Tidak,Sangat Matang,Premium
+192.9,6.1,77,Granola,Manual,Cold Storage,Tidak,Matang,Premium
+192,6.8,73.8,Russet,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+189.4,6.2,76.3,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+205.8,7.9,78.4,Granola,Mesin,Gudang,Tidak,Matang,Standard
+180.1,6,77.6,Granola,Mesin,Cold Storage,Tidak,Matang,Premium
+175.5,5.8,75.6,Granola,Manual,Suhu Ruang,Ya,Matang,Reject
+182.7,6.6,72,Atlantik,Mesin,Gudang,Tidak,Matang,Premium
+213.7,7.5,77.3,Atlantik,Manual,Suhu Ruang,Tidak,Matang,Standard
+157,6,70.5,Granola,Manual,Gudang,Tidak,Sangat Matang,Premium
+178.2,6.5,75.5,Granola,Mesin,Cold Storage,Tidak,Matang,Premium
+220.5,6.4,81.2,Atlantik,Mesin,Gudang,Tidak,Belum Matang,Standard
+120.3,5.1,80.7,Kentang Merah,Manual,Suhu Ruang,Tidak,Matang,Reject
+208.4,6.5,76.9,Russet,Manual,Cold Storage,Tidak,Matang,Premium
+148.2,5.1,78.4,Atlantik,Manual,Suhu Ruang,Tidak,Matang,Standard
+132.7,5.6,73.2,Granola,Manual,Gudang,Ya,Matang,Standard
+106,4.3,77.6,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+195.5,6.2,76.8,Granola,Manual,Gudang,Ya,Matang,Standard
+293.3,8.1,76.2,Russet,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+189.9,6.2,75.6,Kentang Merah,Manual,Gudang,Ya,Matang,Standard
+83.1,4.8,76.4,Kentang Merah,Manual,Cold Storage,Tidak,Matang,Standard
+165.4,6.2,79.8,Kentang Merah,Mesin,Gudang,Tidak,Matang,Standard
+189.8,6.8,72.8,Kentang Merah,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+124,5.6,74.1,Kentang Merah,Manual,Suhu Ruang,Ya,Matang,Reject
+173.6,6.6,79.6,Granola,Mesin,Cold Storage,Tidak,Sangat Matang,Standard
+99.7,4.9,77.2,Granola,Mesin,Suhu Ruang,Tidak,Belum Matang,Reject
+179.3,6.4,76.8,Granola,Mesin,Cold Storage,Ya,Matang,Standard
+152.8,6.1,77.9,Atlantik,Manual,Suhu Ruang,Ya,Matang,Reject
+177,6.3,77.7,Granola,Mesin,Suhu Ruang,Tidak,Matang,Standard
+85.4,4.6,76.5,Kentang Merah,Mesin,Cold Storage,Tidak,Matang,Standard
+249,7.4,76.5,Russet,Mesin,Suhu Ruang,Ya,Matang,Standard
+225.9,6.9,76.4,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+142.6,5.8,70.1,Granola,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+130.2,5.4,82.6,Granola,Manual,Suhu Ruang,Ya,Matang,Reject
+94.5,4.6,79.4,Granola,Manual,Suhu Ruang,Ya,Belum Matang,Reject
+130.7,5.3,78.6,Kentang Merah,Mesin,Gudang,Tidak,Matang,Standard
+169.6,5.7,76.1,Atlantik,Manual,Suhu Ruang,Ya,Matang,Reject
+175.7,6.6,79.1,Russet,Manual,Suhu Ruang,Tidak,Belum Matang,Reject
+185.9,6.5,75.8,Granola,Manual,Suhu Ruang,Ya,Matang,Reject
+174.3,5.9,73,Atlantik,Mesin,Gudang,Tidak,Matang,Premium
+152.3,6.1,79.6,Atlantik,Manual,Gudang,Tidak,Belum Matang,Standard
+210.6,6.7,75.9,Russet,Manual,Suhu Ruang,Tidak,Matang,Standard
+267.5,7.4,80,Russet,Manual,Gudang,Tidak,Matang,Premium
+191.1,6.9,69.9,Granola,Mesin,Gudang,Tidak,Sangat Matang,Premium
+135.4,5.4,75.5,Kentang Merah,Manual,Suhu Ruang,Ya,Matang,Reject
+191.7,6.4,74.7,Granola,Mesin,Gudang,Tidak,Matang,Premium
+99.4,5,76.8,Kentang Merah,Manual,Cold Storage,Tidak,Sangat Matang,Standard
+171.1,6.6,74.7,Granola,Manual,Gudang,Tidak,Matang,Standard
+175.2,6.3,81.5,Granola,Manual,Gudang,Tidak,Belum Matang,Standard
+123.6,4.9,75.5,Kentang Merah,Manual,Gudang,Tidak,Sangat Matang,Standard
+185.2,6.6,79.6,Granola,Manual,Suhu Ruang,Ya,Belum Matang,Reject
+162.7,5.9,69.4,Atlantik,Mesin,Cold Storage,Tidak,Sangat Matang,Premium
+207.8,7.5,73.5,Atlantik,Mesin,Cold Storage,Tidak,Matang,Premium
+189.3,6.5,75.2,Granola,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+127.9,4.7,69.7,Russet,Manual,Suhu Ruang,Tidak,Sangat Matang,Premium
+181.7,6.5,78,Kentang Merah,Mesin,Gudang,Tidak,Matang,Standard
+60,4.9,77.3,Kentang Merah,Manual,Suhu Ruang,Ya,Matang,Reject
+168.4,6.7,78,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+225.9,7.8,78.2,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+158.9,5.6,74.6,Granola,Manual,Gudang,Ya,Matang,Standard
+118.7,5.6,77.5,Granola,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+131.7,5.3,81.9,Granola,Mesin,Cold Storage,Tidak,Belum Matang,Reject
+175.9,6.4,78.4,Kentang Merah,Mesin,Suhu Ruang,Tidak,Belum Matang,Standard
+72.7,4,72.8,Kentang Merah,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+269.5,7.7,78.7,Russet,Manual,Cold Storage,Tidak,Matang,Premium
+188.1,6.3,70.3,Atlantik,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+148.3,6.1,78.2,Atlantik,Manual,Gudang,Tidak,Matang,Standard
+169.6,6.4,76.6,Atlantik,Manual,Gudang,Tidak,Sangat Matang,Standard
+154.4,6,73,Atlantik,Manual,Suhu Ruang,Ya,Sangat Matang,Standard
+220.3,6.6,79.6,Atlantik,Manual,Suhu Ruang,Tidak,Matang,Standard
+195.6,6.5,77.4,Granola,Mesin,Gudang,Tidak,Matang,Standard
+109.8,4.9,77.1,Granola,Manual,Gudang,Tidak,Sangat Matang,Standard
+125.9,5.7,74.2,Kentang Merah,Manual,Gudang,Tidak,Matang,Standard
+159.8,6.4,77,Atlantik,Mesin,Suhu Ruang,Tidak,Matang,Standard
+185.3,6.8,74.8,Kentang Merah,Manual,Gudang,Ya,Sangat Matang,Standard
+122.7,5.1,76.5,Granola,Mesin,Cold Storage,Tidak,Matang,Standard
+246.1,6.5,80,Atlantik,Manual,Suhu Ruang,Ya,Matang,Reject
+168.8,5.5,71.9,Granola,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+129.3,6,82.4,Granola,Manual,Gudang,Tidak,Matang,Reject
+146.3,5.6,78.5,Granola,Mesin,Cold Storage,Tidak,Sangat Matang,Standard
+141.9,5.4,80.7,Granola,Manual,Gudang,Tidak,Belum Matang,Reject
+95.4,5.4,81.4,Kentang Merah,Manual,Cold Storage,Tidak,Belum Matang,Reject
+193.3,7,80.1,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+187,6.5,76.9,Russet,Manual,Suhu Ruang,Tidak,Belum Matang,Standard
+113.7,5.1,69.6,Atlantik,Manual,Gudang,Tidak,Sangat Matang,Premium
+176.7,6.2,83.3,Atlantik,Mesin,Suhu Ruang,Ya,Belum Matang,Reject
+126.9,5.5,77.7,Atlantik,Manual,Cold Storage,Tidak,Matang,Standard
+143.7,6.3,76.4,Granola,Mesin,Suhu Ruang,Ya,Matang,Reject
+108.2,5.2,73,Kentang Merah,Mesin,Suhu Ruang,Ya,Sangat Matang,Reject
+199.5,6.9,70.8,Russet,Manual,Gudang,Ya,Matang,Standard
+300,8.9,79.5,Russet,Mesin,Gudang,Tidak,Belum Matang,Standard
+192,6.2,78,Atlantik,Manual,Gudang,Tidak,Belum Matang,Standard
+178.6,6.6,79.4,Granola,Mesin,Gudang,Tidak,Matang,Standard
+77.8,4.5,75.6,Kentang Merah,Manual,Cold Storage,Tidak,Sangat Matang,Standard
+167.1,5.2,74.5,Atlantik,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+177.5,5.6,78,Granola,Manual,Cold Storage,Tidak,Matang,Standard
+154.1,5.5,73.1,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+261.8,8,81.5,Russet,Mesin,Gudang,Tidak,Belum Matang,Standard
+187.9,6.5,78.6,Russet,Mesin,Gudang,Tidak,Matang,Standard
+220,7.1,80.2,Russet,Mesin,Gudang,Ya,Matang,Reject
+209.5,7.5,82.5,Russet,Mesin,Gudang,Ya,Matang,Reject
+175.8,5.8,72.6,Granola,Mesin,Gudang,Tidak,Matang,Premium
+117.6,5.2,72,Kentang Merah,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
+167.1,5.2,74.5,Atlantik,Manual,Cold Storage,Tidak,Sangat Matang,Premium
+177.5,5.6,78,Granola,Manual,Cold Storage,Tidak,Matang,Standard
+154.1,5.5,73.1,Atlantik,Mesin,Gudang,Tidak,Matang,Standard
+261.8,8,81.5,Russet,Mesin,Gudang,Tidak,Belum Matang,Standard
+187.9,6.5,78.6,Russet,Mesin,Gudang,Tidak,Matang,Standard
+220,7.1,80.2,Russet,Mesin,Gudang,Ya,Matang,Reject
+209.5,7.5,82.5,Russet,Mesin,Gudang,Ya,Matang,Reject
+175.8,5.8,72.6,Granola,Mesin,Gudang,Tidak,Matang,Premium
+117.6,5.2,72,Kentang Merah,Mesin,Suhu Ruang,Ya,Sangat Matang,Standard
